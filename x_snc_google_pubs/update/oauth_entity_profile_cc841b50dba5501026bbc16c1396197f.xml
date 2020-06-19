@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile">
+    <oauth_entity_profile action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <grant_type>password</grant_type>
+        <jwt_provider/>
+        <name>Google Cloud pub default_profile</name>
+        <oauth_entity display_value="Google Cloud pub">f0c35350dba5501026bbc16c13961984</oauth_entity>
+        <sys_class_name>oauth_entity_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-18 06:50:42</sys_created_on>
+        <sys_id>cc841b50dba5501026bbc16c1396197f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Google Cloud pub default_profile</sys_name>
+        <sys_package display_value="Google Cloud Pub/Sub" source="sn_gc_pubsub_spoke">220ffcc41b291010e3d3982f0a4bcbc7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
+        <sys_update_name>oauth_entity_profile_cc841b50dba5501026bbc16c1396197f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-18 06:50:42</sys_updated_on>
+    </oauth_entity_profile>
+</record_update>
