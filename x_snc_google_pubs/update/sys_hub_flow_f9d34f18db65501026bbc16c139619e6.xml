@@ -218,20 +218,6 @@
         <ui_id>4fd6f78b-e2b5-4505-b99e-0cf37a1d3e8e</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f8d9ab5cdba5501026bbc16c13961917"/>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>f8d9ab5cdba5501026bbc16c13961917</document_key>
-        <order>1</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-18 08:23:52</sys_created_on>
-        <sys_id>34d9ab5cdba5501026bbc16c13961957</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-18 08:23:52</sys_updated_on>
-        <value>rakesh-meda</value>
-        <variable display_value="">0609635cdba5501026bbc16c13961955</variable>
-    </sys_variable_value>
     <sys_hub_trigger_instance action="delete_multiple" query="flow=f9d34f18db65501026bbc16c139619e6^sys_idNOT INfaaac71cdb65501026bbc16c13961902"/>
     <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
         <comment/>
@@ -412,20 +398,6 @@
         <ui_id>4fd6f78b-e2b5-4505-b99e-0cf37a1d3e8e</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f8d9ab5cdba5501026bbc16c13961917"/>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>f8d9ab5cdba5501026bbc16c13961917</document_key>
-        <order>1</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-18 08:23:52</sys_created_on>
-        <sys_id>34d9ab5cdba5501026bbc16c13961957</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-18 08:23:52</sys_updated_on>
-        <value>rakesh-meda</value>
-        <variable display_value="">0609635cdba5501026bbc16c13961955</variable>
-    </sys_variable_value>
     <sys_hub_flow_logic action="delete_multiple" query="flow=f9d34f18db65501026bbc16c139619e6^sys_idNOT INb8d9ab5cdba5501026bbc16c1396195a"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
         <block display_value="">f0d9ab5cdba5501026bbc16c1396195a</block>

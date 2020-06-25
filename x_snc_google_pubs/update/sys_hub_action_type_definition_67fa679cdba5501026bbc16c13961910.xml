@@ -1373,20 +1373,6 @@
         <sys_updated_on>2020-06-18 08:59:30</sys_updated_on>
     </sys_hub_action_input_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=486bab9cdba5501026bbc16c139619c8"/>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_input_action_instance</document>
-        <document_key>486bab9cdba5501026bbc16c139619c8</document_key>
-        <order>1</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-18 08:30:38</sys_created_on>
-        <sys_id>486bab9cdba5501026bbc16c139619c9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-18 08:30:38</sys_updated_on>
-        <value>{{action.project_id}}</value>
-        <variable display_value="">77c8e31cdba5501026bbc16c1396194b</variable>
-    </sys_variable_value>
     <sys_hub_action_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
@@ -5354,20 +5340,6 @@
         <sys_updated_on>2020-06-18 08:59:36</sys_updated_on>
     </sys_hub_action_input_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=d4027790dbe5501026bbc16c13961925"/>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_input_action_instance</document>
-        <document_key>d4027790dbe5501026bbc16c13961925</document_key>
-        <order>1</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-18 08:59:36</sys_created_on>
-        <sys_id>10027790dbe5501026bbc16c13961926</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-18 08:59:36</sys_updated_on>
-        <value>{{action.project_id}}</value>
-        <variable display_value="">77c8e31cdba5501026bbc16c1396194b</variable>
-    </sys_variable_value>
     <sys_hub_action_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>

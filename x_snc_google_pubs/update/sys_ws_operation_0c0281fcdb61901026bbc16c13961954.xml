@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_operation">
+    <sys_ws_operation action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <consumes>application/json,application/xml,text/xml</consumes>
+        <consumes_customized>false</consumes_customized>
+        <default_operation_uri/>
+        <enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl>
+        <http_method>POST</http_method>
+        <name>Publish</name>
+        <operation_script><![CDATA[(function process( /*RESTAPIRequest*/ request, /*RESTAPIResponse*/ response) {
+gs.info("tmjsssn 1002 -->");
+//     var authorizationFromHeaders = request.headers.authorization;
+//     var bearer = authorizationFromHeaders.split(" ")[1];
+// 	gs.info("tmjsssn 1001 -->"+authorizationFromHeaders);
+//     gs.info("tmjsssn 1001 -->" + bearer);
+//     gs.info(responseBody.getBody());
+//     var messageEncoded = request.body.data.message.data;
+//     gs.info(gs.base64Decode(messageEncoded));
+
+})(request, response);]]></operation_script>
+        <operation_uri>/api/sn_gc_pubsub_spoke/message</operation_uri>
+        <produces>application/json,application/xml,text/xml</produces>
+        <produces_customized>false</produces_customized>
+        <relative_path>/</relative_path>
+        <request_example/>
+        <requires_acl_authorization>true</requires_acl_authorization>
+        <requires_authentication>true</requires_authentication>
+        <requires_snc_internal_role>true</requires_snc_internal_role>
+        <short_description/>
+        <sys_class_name>sys_ws_operation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-19 09:28:35</sys_created_on>
+        <sys_id>0c0281fcdb61901026bbc16c13961954</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Publish</sys_name>
+        <sys_package display_value="Google Cloud Pub/Sub" source="sn_gc_pubsub_spoke">220ffcc41b291010e3d3982f0a4bcbc7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
+        <sys_update_name>sys_ws_operation_0c0281fcdb61901026bbc16c13961954</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-22 10:14:09</sys_updated_on>
+        <web_service_definition display_value="Google Cloud Pubsub Message">4cb1cdbcdb61901026bbc16c1396195f</web_service_definition>
+        <web_service_version/>
+    </sys_ws_operation>
+</record_update>

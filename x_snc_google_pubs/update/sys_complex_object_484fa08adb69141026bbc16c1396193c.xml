@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD844fa08a5469141024ca86dfec43463c</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>220ffcc41b291010e3d3982f0a4bcbc7</scope_name>
+        <serialized_content>{"FlowDesigner:FD844fa08a5469141024ca86dfec43463c":{"$COCollectionField":[{"topic":{"name":"String","name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Name\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"e204325b-d7f3-4dc8-b1fc-643e601678a1\"}"},"label":"String","label.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Label\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"6780ddb1-abe9-45fb-9d79-68a9f2281c0a\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"89aa41b0-637c-4683-afdb-e2153fff1750\",\"default_value\":\"\",\"label\":\"Topics List\",\"mandatory\":\"false\",\"child_name\":\"topic\",\"uiUniqueId\":\"4fce46eb-c700-4b6d-bd42-45d79a6bbef5\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD844fa08a5469141024ca86dfec43463c\",\"child_label\":\"Topic\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"4744df82-3fa2-4669-bb04-58e976f13ada\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"2\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"eba59cbb-939d-48fe-917d-6a4c72a36ff1\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD844fa08a5469141024ca86dfec43463c.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"89aa41b0-637c-4683-afdb-e2153fff1750\",\"default_value\":\"\",\"label\":\"Topics List\",\"mandatory\":\"false\",\"child_name\":\"topic\",\"uiUniqueId\":\"4fce46eb-c700-4b6d-bd42-45d79a6bbef5\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD844fa08a5469141024ca86dfec43463c\",\"child_label\":\"Topic\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"4744df82-3fa2-4669-bb04-58e976f13ada\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"2\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"eba59cbb-939d-48fe-917d-6a4c72a36ff1\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 05:18:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>484fa08adb69141026bbc16c1396193c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD844fa08a5469141024ca86dfec43463c</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Cloud Pub/Sub" source="sn_gc_pubsub_spoke">220ffcc41b291010e3d3982f0a4bcbc7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
+        <sys_update_name>sys_complex_object_484fa08adb69141026bbc16c1396193c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 05:18:04</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>
