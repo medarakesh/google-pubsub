@@ -3,7 +3,7 @@
         <access>public</access>
         <acls/>
         <action_template>DATASTREAM</action_template>
-        <active>true</active>
+        <active>false</active>
         <annotation/>
         <callable_by_client_api>false</callable_by_client_api>
         <category display_value="Metadata Retrieval Management">4c8c475cdb65501026bbc16c139619f6</category>
@@ -26,7 +26,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d0ccc75cdb65501026bbc16c139619e0</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Fetch Topics</sys_name>
         <sys_overrides/>
         <sys_package display_value="Google Cloud Pub/Sub" source="sn_gc_pubsub_spoke">220ffcc41b291010e3d3982f0a4bcbc7</sys_package>
@@ -34,7 +34,7 @@
         <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_d0ccc75cdb65501026bbc16c139619e0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-18 08:06:54</sys_updated_on>
+        <sys_updated_on>2020-06-29 09:54:10</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>

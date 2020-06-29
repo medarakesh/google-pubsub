@@ -7,8 +7,8 @@
         <annotation/>
         <callable_by_client_api>false</callable_by_client_api>
         <category display_value="Topic Management">4db211801b691010e3d3982f0a4bcb78</category>
-        <copied_from>b8da6f2d1b69d010e3d3982f0a4bcbb1</copied_from>
-        <copied_from_name>Create Subscription For Push</copied_from_name>
+        <copied_from/>
+        <copied_from_name/>
         <description/>
         <ih_action>true</ih_action>
         <internal_name>update_push_configuration</internal_name>
@@ -25,15 +25,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8bfb67621be51010e3d3982f0a4bcb10</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>13</sys_mod_count>
         <sys_name>Update Push Configuration</sys_name>
         <sys_overrides/>
         <sys_package display_value="Google Cloud Pub/Sub" source="sn_gc_pubsub_spoke">220ffcc41b291010e3d3982f0a4bcbc7</sys_package>
-        <sys_policy/>
+        <sys_policy>read</sys_policy>
         <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_8bfb67621be51010e3d3982f0a4bcb10</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-25 08:26:00</sys_updated_on>
+        <sys_updated_on>2020-06-29 09:46:40</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -56,10 +56,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-25 08:19:42</sys_created_on>
         <sys_id>37fb67621be51010e3d3982f0a4bcbcc</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-25 08:25:19</sys_updated_on>
+        <sys_updated_on>2020-06-29 09:46:41</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=37fb67621be51010e3d3982f0a4bcbcc"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -358,14 +358,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-25 08:19:42</sys_created_on>
         <sys_id>f7fb67621be51010e3d3982f0a4bcbd2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
-        <sys_policy/>
+        <sys_policy>read</sys_policy>
         <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-25 08:19:42</sys_updated_on>
+        <sys_updated_on>2020-06-29 09:46:41</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -1398,14 +1398,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-25 08:19:39</sys_created_on>
         <sys_id>03fb67621be51010e3d3982f0a4bcb18</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
-        <sys_policy/>
+        <sys_policy>read</sys_policy>
         <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-25 08:19:39</sys_updated_on>
+        <sys_updated_on>2020-06-29 09:46:41</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -1492,14 +1492,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-25 08:19:40</sys_created_on>
         <sys_id>5ffb67621be51010e3d3982f0a4bcb4c</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_package/>
-        <sys_policy/>
+        <sys_policy>read</sys_policy>
         <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-25 08:23:36</sys_updated_on>
+        <sys_updated_on>2020-06-29 09:46:41</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -1573,14 +1573,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-25 08:23:36</sys_created_on>
         <sys_id>89ecaf621be51010e3d3982f0a4bcbb0</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
-        <sys_policy/>
+        <sys_policy>read</sys_policy>
         <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-25 08:23:36</sys_updated_on>
+        <sys_updated_on>2020-06-29 09:46:41</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -1636,10 +1636,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-25 08:19:42</sys_created_on>
         <sys_id>37fb67621be51010e3d3982f0a4bcbcc</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-25 08:25:19</sys_updated_on>
+        <sys_updated_on>2020-06-29 09:46:41</sys_updated_on>
     </sys_hub_step_instance>
     <sys_variable_value action="delete_multiple" query="document_key=37fb67621be51010e3d3982f0a4bcbcc"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -1938,14 +1938,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-25 08:19:42</sys_created_on>
         <sys_id>f7fb67621be51010e3d3982f0a4bcbd2</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
-        <sys_policy/>
+        <sys_policy>read</sys_policy>
         <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-25 08:19:42</sys_updated_on>
+        <sys_updated_on>2020-06-29 09:46:41</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
