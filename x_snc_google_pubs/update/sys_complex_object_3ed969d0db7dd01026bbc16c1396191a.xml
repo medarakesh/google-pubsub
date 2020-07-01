@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD7ad969d0547dd0102200eab267794e1a</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>220ffcc41b291010e3d3982f0a4bcbc7</scope_name>
+        <serialized_content>{"FlowDesigner:FD7ad969d0547dd0102200eab267794e1a":{"$COCollectionField":[{"message":{"ackId":"String","ackId.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Acknowledge ID\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"7536a59e-72a3-4916-a6a2-5d50a525c825\"}"},"message":{"publishTime":"String","publishTime.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Published Time\",\"mandatory\":\"true\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"e573b859-a0cb-4afa-90af-155d7d680610\"}"},"data":"String","data.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Data\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"bf6dbd63-31a4-4f19-9000-6bb511117777\"}"},"messageId":"String","messageId.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message ID\",\"mandatory\":\"true\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"4af7f825-1655-46f9-bdd7-f2004f28bc7e\"}"}},"message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Message Info\",\"mandatory\":\"true\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"a211669a-4f11-476f-9e6c-274fa15ee0c0\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"cd05be33-b8ab-4b30-9f68-c030b4bbde42\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Messages\",\"mandatory\":\"false\",\"child_name\":\"message\",\"uiUniqueId\":\"e09eea75-2ea8-4928-8e67-aafdd21b1643\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD7ad969d0547dd0102200eab267794e1a\",\"child_label\":\"Message\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"97e2b90c-f8d3-4f6d-9dcd-c7e439cd381a\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"4b976a54-218a-4341-a128-ce6f82fe82ab\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD7ad969d0547dd0102200eab267794e1a.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"cd05be33-b8ab-4b30-9f68-c030b4bbde42\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Messages\",\"mandatory\":\"false\",\"child_name\":\"message\",\"uiUniqueId\":\"e09eea75-2ea8-4928-8e67-aafdd21b1643\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD7ad969d0547dd0102200eab267794e1a\",\"child_label\":\"Message\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"97e2b90c-f8d3-4f6d-9dcd-c7e439cd381a\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"4b976a54-218a-4341-a128-ce6f82fe82ab\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-30 09:20:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3ed969d0db7dd01026bbc16c1396191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD7ad969d0547dd0102200eab267794e1a</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Cloud Pub/Sub" source="sn_gc_pubsub_spoke">220ffcc41b291010e3d3982f0a4bcbc7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
+        <sys_update_name>sys_complex_object_3ed969d0db7dd01026bbc16c1396191a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-30 09:20:28</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

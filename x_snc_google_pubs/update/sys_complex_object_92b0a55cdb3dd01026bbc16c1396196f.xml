@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDdeb0a55c2e3dd0102fe16f855ea8f56e</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>220ffcc41b291010e3d3982f0a4bcbc7</scope_name>
+        <serialized_content>{"FlowDesigner:FDdeb0a55c2e3dd0102fe16f855ea8f56e":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDdeb0a55c2e3dd0102fe16f855ea8f56e.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Message IDs\",\"mandatory\":\"true\",\"child_name\":\"messageId\",\"uiUniqueId\":\"aa181e89-2cfc-47a2-b5e9-892ab17b5add\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FDdeb0a55c2e3dd0102fe16f855ea8f56e\",\"child_label\":\"Message ID\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"1\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"febe3d74-e12f-4ab6-93da-eec1705cfcde\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-30 08:40:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>92b0a55cdb3dd01026bbc16c1396196f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDdeb0a55c2e3dd0102fe16f855ea8f56e</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Cloud Pub/Sub" source="sn_gc_pubsub_spoke">220ffcc41b291010e3d3982f0a4bcbc7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
+        <sys_update_name>sys_complex_object_92b0a55cdb3dd01026bbc16c1396196f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-30 08:40:33</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

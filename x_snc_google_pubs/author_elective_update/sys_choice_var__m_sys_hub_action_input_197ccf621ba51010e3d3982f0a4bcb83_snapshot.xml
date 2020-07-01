@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="snapshot" table="var__m_sys_hub_action_input_197ccf621ba51010e3d3982f0a4bcb83" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>snapshot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-- None --</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_197ccf621ba51010e3d3982f0a4bcb83</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-01 05:41:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>476142201b311410e3d3982f0a4bcbf1</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-01 05:57:43</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>snapshot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>snap-test</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_197ccf621ba51010e3d3982f0a4bcb83</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-01 05:47:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fab28e201b311410e3d3982f0a4bcbf4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-01 05:57:43</sys_updated_on>
+            <value>snap-test</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>snapshot</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>mysnapshot</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_197ccf621ba51010e3d3982f0a4bcb83</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-01 05:47:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b6b28e201b311410e3d3982f0a4bcbf5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-01 05:57:43</sys_updated_on>
+            <value>mysnapshot</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>snapshot</element>
+            <name>var__m_sys_hub_action_input_197ccf621ba51010e3d3982f0a4bcb83</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-01 05:41:55</sys_created_on>
+            <sys_id>cf6142201b311410e3d3982f0a4bcbf1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_package display_value="Google Cloud Pub/Sub" source="sn_gc_pubsub_spoke">220ffcc41b291010e3d3982f0a4bcbc7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-01 05:41:55</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

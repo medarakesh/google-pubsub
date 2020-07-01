@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD67021514883dd0102331dbbbc8a27ce7</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>220ffcc41b291010e3d3982f0a4bcbc7</scope_name>
+        <serialized_content>{"FlowDesigner:FD67021514883dd0102331dbbbc8a27ce7":{"$COCollectionField":[{"binding":{"condition":{"expression":"String","expression.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Expression\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"description":"String","description.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Description\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"},"title":"String","title.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Title\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}},"condition.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Condition\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"role":"String","role.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Role\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"},"members":["Any"],"members.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Members\",\"mandatory\":\"false\",\"child_name\":\"member\",\"uiTypeLabel\":\"Any\",\"child_label\":\"Member\",\"child_type_label\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"2\",\"max_length\":\"0\",\"child_uiUniqueId\":\"c8dc19d4-2e94-4fb8-bc76-b39ade0db588\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Bindings\",\"mandatory\":\"false\",\"child_name\":\"binding\",\"uiUniqueId\":\"1eb91d8c-b5ad-4f2f-906a-47513654fda1\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD67021514883dd0102331dbbbc8a27ce7\",\"child_label\":\"Binding\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"3\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"bf65d6ca-c6d8-4111-b7f6-b9631a3040be\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD67021514883dd0102331dbbbc8a27ce7.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Bindings\",\"mandatory\":\"false\",\"child_name\":\"binding\",\"uiUniqueId\":\"1eb91d8c-b5ad-4f2f-906a-47513654fda1\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD67021514883dd0102331dbbbc8a27ce7\",\"child_label\":\"Binding\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"3\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"bf65d6ca-c6d8-4111-b7f6-b9631a3040be\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-30 07:36:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2b021514db3dd01026bbc16c139619e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD67021514883dd0102331dbbbc8a27ce7</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Cloud Pub/Sub" source="sn_gc_pubsub_spoke">220ffcc41b291010e3d3982f0a4bcbc7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
+        <sys_update_name>sys_complex_object_2b021514db3dd01026bbc16c139619e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-30 07:36:29</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>
