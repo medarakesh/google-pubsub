@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="GCP Configuration" max_length="40" name="sn_gc_pubsub_spoke_gcp_configuration" type="collection">
+    <element label="GCP Configuration" max_length="40" name="sn_gc_pubsub_spoke_gcp_configuration" sizeclass="1" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Subflow Internal Name" max_length="40" name="subflow_internal_name" type="string"/>
     </element>
