@@ -53,6 +53,8 @@ GCPPubSubErrorHandling.prototype = {
             outputs.errormessage = "Subscription is different from that of the snapshot.";
         else if (errorMessage.indexOf("is not supported for this resource") != -1)
             outputs.errormessage = "Role doesn't exist.";
+        else if (errorMessage.indexOf("Resource already exists in the project") != -1)
+            outputs.errormessage = "Subscription name already exist.";
         if (!outputs.errormessage)
             outputs.errormessage = errorMessage;
         return outputs;
@@ -77,13 +79,13 @@ GCPPubSubErrorHandling.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-30 05:39:47</sys_created_on>
         <sys_id>59277cd0dbf9d01026bbc16c1396199c</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>19</sys_mod_count>
         <sys_name>GCPPubSubErrorHandling</sys_name>
         <sys_package display_value="Google Cloud Pub/Sub" source="sn_gc_pubsub_spoke">220ffcc41b291010e3d3982f0a4bcbc7</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
         <sys_update_name>sys_script_include_59277cd0dbf9d01026bbc16c1396199c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-02 09:58:52</sys_updated_on>
+        <sys_updated_on>2020-07-03 06:49:56</sys_updated_on>
     </sys_script_include>
 </record_update>
