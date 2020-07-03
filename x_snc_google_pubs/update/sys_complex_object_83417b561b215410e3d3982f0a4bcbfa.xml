@@ -4,14 +4,14 @@
         <name>FDcf417b56452154100632cff74889fef9</name>
         <namespace>FlowDesigner</namespace>
         <scope_name>220ffcc41b291010e3d3982f0a4bcbc7</scope_name>
-        <serialized_content>{"FlowDesigner:FDcf417b56452154100632cff74889fef9":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDcf417b56452154100632cff74889fef9.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Acknowledge ID's\",\"mandatory\":\"true\",\"child_name\":\"acknowledgeid\",\"uiUniqueId\":\"fc0b382c-b192-4998-b802-622752d7f66a\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FDcf417b56452154100632cff74889fef9\",\"child_label\":\"Acknowledge ID\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"3\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"1b391853-c5b0-497c-90d2-e9b8a577b766\"}"}}</serialized_content>
+        <serialized_content>{"FlowDesigner:FDcf417b56452154100632cff74889fef9":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDcf417b56452154100632cff74889fef9.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Acknowledge ID's\",\"mandatory\":\"true\",\"child_name\":\"acknowledgeid\",\"uiUniqueId\":\"fc0b382c-b192-4998-b802-622752d7f66a\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FDcf417b56452154100632cff74889fef9\",\"child_label\":\"Acknowledge ID\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"3\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"428021d0-814f-49bf-863f-92898bc25a0f\"}"}}</serialized_content>
         <sys_class_name>sys_complex_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-24 14:04:22</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>83417b561b215410e3d3982f0a4bcbfa</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name>FDcf417b56452154100632cff74889fef9</sys_name>
         <sys_overrides/>
         <sys_package display_value="Google Cloud Pub/Sub" source="sn_gc_pubsub_spoke">220ffcc41b291010e3d3982f0a4bcbc7</sys_package>
@@ -19,7 +19,7 @@
         <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
         <sys_update_name>sys_complex_object_83417b561b215410e3d3982f0a4bcbfa</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-30 10:30:06</sys_updated_on>
+        <sys_updated_on>2020-07-03 05:27:27</sys_updated_on>
         <type>complex_object_collection</type>
     </sys_complex_object>
 </record_update>
