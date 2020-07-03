@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD3a7aa055d93d5410ccfe7c4d1e72eac5</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>220ffcc41b291010e3d3982f0a4bcbc7</scope_name>
+        <serialized_content>{"FlowDesigner:FD3a7aa055d93d5410ccfe7c4d1e72eac5":{"retainAckedMessages":"String","retainAckedMessages.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Retain Acknowledged  Messages\",\"mandatory\":\"true\",\"order\":\"9\",\"max_length\":\"0\"}"},"messageRetentionDuration":"String","messageRetentionDuration.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message Retention Duration\",\"mandatory\":\"true\",\"order\":\"10\",\"max_length\":\"0\"}"},"pushConfig":{"pushEndpoint":"String","pushEndpoint.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Endpoint\",\"mandatory\":\"true\",\"order\":\"4\",\"max_length\":\"0\"}"},"OidcToken":{"serviceAccountEmail":"String","serviceAccountEmail.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"ServiceAccount Email\",\"mandatory\":\"true\",\"order\":\"6\",\"max_length\":\"0\"}"},"audience":"String","audience.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Audience\",\"mandatory\":\"true\",\"order\":\"7\",\"max_length\":\"0\"}"}},"OidcToken.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Oidc Token\",\"mandatory\":\"true\",\"order\":\"5\",\"max_length\":\"0\"}"}},"pushConfig.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Push Configuration\",\"mandatory\":\"true\",\"order\":\"3\",\"max_length\":\"0\"}"},"name":"String","name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Name\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"0\"}"},"topic":"String","topic.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Topic\",\"mandatory\":\"true\",\"order\":\"2\",\"max_length\":\"0\"}"},"ackDeadlineSeconds":"String","ackDeadlineSeconds.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Acknowledge  Deadline Seconds\",\"mandatory\":\"true\",\"order\":\"8\",\"max_length\":\"0\"}"}},"FlowDesigner:FD3a7aa055d93d5410ccfe7c4d1e72eac5.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Subscription\",\"mandatory\":\"true\",\"uiUniqueId\":\"0ebcb643-3090-4cdb-ba5c-c572d0d36dbe\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD3a7aa055d93d5410ccfe7c4d1e72eac5\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-03 07:17:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fa7aa055db3d541026bbc16c139619c5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FD3a7aa055d93d5410ccfe7c4d1e72eac5</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Cloud Pub/Sub" source="sn_gc_pubsub_spoke">220ffcc41b291010e3d3982f0a4bcbc7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
+        <sys_update_name>sys_complex_object_fa7aa055db3d541026bbc16c139619c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-03 07:17:41</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
