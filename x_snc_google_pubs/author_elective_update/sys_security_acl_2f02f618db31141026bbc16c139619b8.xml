@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on sn_gc_pubsub_spoke_gcp_configuration</description>
+        <name>sn_gc_pubsub_spoke_gcp_configuration</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-30 14:35:54</sys_created_on>
+        <sys_id>2f02f618db31141026bbc16c139619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_gc_pubsub_spoke_gcp_configuration</sys_name>
+        <sys_package display_value="Google Cloud Pub/Sub" source="sn_gc_pubsub_spoke">220ffcc41b291010e3d3982f0a4bcbc7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
+        <sys_update_name>sys_security_acl_2f02f618db31141026bbc16c139619b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-30 14:35:54</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</application>
+        <file_path/>
+        <instance_id>9963a576db3c1cd07527d7c8f4961929</instance_id>
+        <instance_name>rakeshm</instance_name>
+        <name>sys_security_acl_2f02f618db31141026bbc16c139619b8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on sn_gc_pubsub_spoke_gcp_configuration</description><name>sn_gc_pubsub_spoke_gcp_configuration</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-30 14:35:54</sys_created_on><sys_id>2f02f618db31141026bbc16c139619b8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_gc_pubsub_spoke_gcp_configuration</sys_name><sys_package display_value="Google Cloud Pub/Sub" source="sn_gc_pubsub_spoke">220ffcc41b291010e3d3982f0a4bcbc7</sys_package><sys_policy/><sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope><sys_update_name>sys_security_acl_2f02f618db31141026bbc16c139619b8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-30 14:35:54</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1031444789</payload_hash>
+        <record_name>sn_gc_pubsub_spoke_gcp_configuration</record_name>
+        <reverted_from/>
+        <source>222089081b291010e3d3982f0a4bcb8d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-30 14:35:54</sys_created_on>
+        <sys_id>e302f618db31141026bbc16c139619bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17305a7dfda0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-30 14:35:54</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>2f02f6180c31141063b70ce34aa7edba</update_guid>
+        <update_guid_history>2f02f6180c31141063b70ce34aa7edba:-1031444789</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-06 01:13:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>18c4daff4dd74b90baa81c9672d19100</sys_id>
+        <sys_metadata>2f02f618db31141026bbc16c139619b8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_gc_pubsub_spoke_gcp_configuration</sys_name>
+        <sys_package display_value="Google Cloud Pub/Sub" source="sn_gc_pubsub_spoke">220ffcc41b291010e3d3982f0a4bcbc7</sys_package>
+        <sys_parent display_value="">e302f618db31141026bbc16c139619c4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud Pub/Sub">220ffcc41b291010e3d3982f0a4bcbc7</sys_scope>
+        <sys_scope_delete display_value="">03e2ad8de3b4444081cd66da6672e400</sys_scope_delete>
+        <sys_update_name>sys_security_acl_2f02f618db31141026bbc16c139619b8</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_2f02f618db31141026bbc16c139619b8">e302f618db31141026bbc16c139619bb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-06 01:13:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
